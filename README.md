@@ -1,6 +1,6 @@
 [![MasterHead](https://altair.com/images/default-source/content-images/trends_machine_learning_header_interior_desktop-jpg.jpg?sfvrsn=69c5984c_0)]
 <h1 align="center">Hi 👋, I'm Arnab Pal</h1>
-<h3 align="center">A passionate Frontend Developer from India. And also have interest in Machine Learning and Data Science</h3>
+<h3 align="center">A passionate Frontend Developer from India. And also have interest in Machine Learning and Data Science and Statistics.</h3>
 <img align="right" alt="Coding" width="1200" src="https://miro.medium.com/max/1400/0*de0IdiUSoJTwgsys.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabpalbally&label=Profile%20views&color=0e75b6&style=flat" alt="arnabpalbally" /> </p>
 
