@@ -47,6 +47,6 @@
 
 <p align="middle"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnabpalbally&show_icons=true&locale=en&layout=compact" alt="arnabpalbally" /></p>
 
-<p align="middle">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnabpalbally&show_icons=true&locale=en" alt="arnabpalbally" /></p>
+<p align="middle">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monsterrek&show_icons=true&locale=en" alt="monsterrek" /></p>
 
-<p align="middle"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnabpalbally&" alt="arnabpalbally" /></p>
+<p align="middle"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monsterrek&" alt="monsterrek" /></p>
