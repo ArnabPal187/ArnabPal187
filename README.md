@@ -1,5 +1,5 @@
 ![MasterHead](https://altair.com/images/default-source/content-images/trends_machine_learning_header_interior_desktop-jpg.jpg?sfvrsn=69c5984c_0)
-<h1 align="center">Hi 👋, I'm Arnab Pal</h1>
+<h1 align="center">Hi 👋</h1>
 
 
 
