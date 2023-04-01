@@ -17,7 +17,7 @@
 
 <h3 align="center">A passionate Frontend Developer from India. And also have interest in Machine Learning , Data Science and Statistics.</h3>
 <img align="right" alt="Coding" width="1200" src="https://miro.medium.com/max/1400/0*de0IdiUSoJTwgsys.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monsterrek18&label=Profile%20views&color=0e75b6&style=flat" alt="monsterrek" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monsterrek18&label=Profile%20views&color=0e75b6&style=flat" alt="monsterrek18" /> </p>
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnabpalbally" alt="arnabpalbally" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
