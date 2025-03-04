@@ -47,7 +47,7 @@
 
 <p align="middle"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabPal187&show_icons=true&locale=en&layout=compact" alt="ArnabPal187" /></p>
 
-<p align="middle">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnabPal187&show_icons=true&locale=entheme=deuteranopia-friendly-theme&" alt="ArnabPal187" /></p>
+<p align="middle">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnabPal187&show_icons=true" alt="ArnabPal187" /></p>
 
 
 
