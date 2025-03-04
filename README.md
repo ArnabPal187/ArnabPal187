@@ -53,4 +53,4 @@
 
 
 
-<p align="middle"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabPal187&" alt="ArnabPal187" /></p>
+<p align="middle"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabPal187&theme=deuteranopia-friendly-theme&" alt="ArnabPal187" /></p>
