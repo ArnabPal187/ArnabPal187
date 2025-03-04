@@ -49,7 +49,7 @@
 
 <p align="middle">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnabPal187&show_icons=true&locale=en" alt="ArnabPal187" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ArnabPal187&theme=deuteranopia-friendly-theme)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ArnabPal187&theme=deuteranopia-friendly-theme&hide_border=true&align=center)](https://git.io/streak-stats)
 
 
 
