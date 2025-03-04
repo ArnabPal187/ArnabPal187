@@ -19,7 +19,7 @@
 <img align="right" alt="Coding" width="1200" src="https://miro.medium.com/max/1400/0*de0IdiUSoJTwgsys.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArnabPal187&label=Profile%20views&color=0e75b6&style=flat" alt="ArnabPal187" /> </p>
 
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monsterrek18" alt="monsterrek" /></a> </p>
+<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArnabPal187" alt="ArnabPal" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 
 - 🌱 I’m currently learning **TensorFlow and MySQL**
